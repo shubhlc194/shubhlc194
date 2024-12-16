@@ -68,7 +68,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-chaudhary-46605a297/"><img alt="Linkedin" title="Shubham Chaudhary Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/shubhlc194"><img alt="Github" title="Shubham Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="(https://www.instagram.com/shubham_.__choudhary/)"><img alt="Instagram" title="Shubham chaudhary" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/shubham_.__choudhary"><img alt="Instagram" title="Shubham chaudhary" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </p>
 
