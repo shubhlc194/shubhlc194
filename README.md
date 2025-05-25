@@ -1,38 +1,43 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
 </p>
 
-## Who am I ?
+---
 
- ```python
-  class WhoAmI:
-    user = 'Shubham Chaudhary'
-	current_edu = "Persuing BTech. in DS dept"
-    currently_learning = "Express js"
-    status: "Free for some days ahead"
-    fun_fact = "I hate Onion"
-	hobbies = [
-	      'Listening Music',
-          'Chilling',
-			 	  'Gaming',
-          'Thriller Movies',
-          'History Documentaries'
-			]
-	
-	def getCity():
-		return Ghaziabad_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+## 👨‍💻 About Me
 
-   def Achievements():
-		Technical_operation_member():
-            Salaah_The_Mentor_Community
-            Environ_Club
-                  
+```python
+class WhoAmI:
+    user = "Shubham Chaudhary"
+    current_edu = "Pursuing B.Tech in Data Science"
+    currently_learning = "MERN Stack, exploring open-source"
+    status = "Open to exciting projects & collabs"
+    fun_fact = "I hate onions 🧅❌"
+
+    hobbies = [
+        "Listening to music 🎧",
+        "Chilling with friends 😎",
+        "Gaming 🎮",
+        "Thriller movies & documentaries 🍿",
+        "Tennis 🎾",
+        "Photography 📸",
+        "Traveling 🌍"
+    ]
+
+    def get_city():
+        return "Ghaziabad, India 🇮🇳"
+
+    def ambitions():
+        return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
+
+    def achievements():
+        return [
+            "Technical Operations Member at Salaah - The Mentor Community",
+            "Core Member at Environ Club 🌿"
+        ]
+
 		
 	
  ```
