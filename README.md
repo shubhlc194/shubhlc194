@@ -14,7 +14,7 @@ class WhoAmI:
     current_edu = "Pursuing B.Tech in Data Science"
     currently_learning = "MERN Stack, exploring open-source"
     status = "Open to exciting projects & collabs"
-    fun_fact = "I hate onions 🧅❌"
+
 
     hobbies = [
         "Listening to music 🎧",
