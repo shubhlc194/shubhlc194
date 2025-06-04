@@ -1,5 +1,9 @@
-[Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Banner" />
+</p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
 </p>
@@ -8,38 +12,28 @@
 
 ## 👨‍💻 About Me
 
-python
+```python
 class WhoAmI:
-    user = "Shubham Chaudhary"
-    current_edu = "Pursuing B.Tech in Data Science"
-    currently_learning = "MERN Stack, exploring open-source"
-    status = "Open to exciting projects & collabs"
-
-
-    hobbies = [
-        "Listening to music 🎧",
-        "Chilling with friends 😎",
-        "Gaming 🎮",
-        "Thriller movies & documentaries 🍿",
-        "Tennis 🎾",
-        "Photography 📸",
-        "Traveling 🌍"
-    ]
-
-    def get_city():
-        return "Ghaziabad, India 🇮🇳"
-
-    def ambitions():
-        return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
-
-    def achievements():
-        return [
+    def __init__(self):
+        self.name = "Shubham Chaudhary"
+        self.education = "Pursuing B.Tech in Data Science"
+        self.learning = ["MERN Stack", "Open Source"]
+        self.status = "Open to exciting projects & collabs"
+        self.city = "Ghaziabad, India 🇮🇳"
+        self.ambitions = [
+            "Become a great software engineer 💻",
+            "Build impactful projects 🚀"
+        ]
+        self.achievements = [
             "Technical Operations Member at Salaah - The Mentor Community",
             "Core Member at Environ Club 🌿"
         ]
+        self.hobbies = [
+            "Listening to music 🎧", "Chilling with friends 😎",
+            "Gaming 🎮", "Thriller movies & documentaries 🍿",
+            "Tennis 🎾", "Photography 📸", "Traveling 🌍"
+        ]
 
-		
-	
  
 
 
