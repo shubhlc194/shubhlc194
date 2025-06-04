@@ -1,152 +1,78 @@
+[Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-
-                  
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Shubham+Chaudhary;I+Love+Coding;+Web+Developer;Love+Building+Projects;Problem+Solver;">
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C308%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-761-blue)
+## 👨‍💻 About Me
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 260.6 kB Used in GitHub's Storage 
- > 
-> 🏆 243 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1548 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-🌆 Daytime                3462 commits        ██████████░░░░░░░░░░░░░░░   39.89 % 
-🌃 Evening                2488 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌙 Night                  1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   971 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Tuesday                  1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Wednesday                1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Thursday                 1021 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Friday                   836 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Saturday                 1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Sunday                   2051 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-```
+python
+class WhoAmI:
+    user = "Shubham Chaudhary"
+    current_edu = "Pursuing B.Tech in Data Science"
+    currently_learning = "MERN Stack, exploring open-source"
+    status = "Open to exciting projects & collabs"
 
 
-📊 **This Week I Spent My Time On** 
+    hobbies = [
+        "Listening to music 🎧",
+        "Chilling with friends 😎",
+        "Gaming 🎮",
+        "Thriller movies & documentaries 🍿",
+        "Tennis 🎾",
+        "Photography 📸",
+        "Traveling 🌍"
+    ]
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+    def get_city():
+        return "Ghaziabad, India 🇮🇳"
 
-💬 Programming Languages: 
-TypeScript               42 hrs 4 mins       ██████████████████████░░░   89.42 % 
-JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-SCSS                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+    def ambitions():
+        return ["Become a great software engineer 💻", "Build impactful projects 🚀"]
 
-🔥 Editors: 
-WebStorm                 46 hrs 44 mins      █████████████████████████   99.32 % 
-DataGrip                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+    def achievements():
+        return [
+            "Technical Operations Member at Salaah - The Mentor Community",
+            "Core Member at Environ Club 🌿"
+        ]
 
-💻 Operating System: 
-Mac                      47 hrs 3 mins       █████████████████████████   100.00 % 
-```
+		
+	
+ 
 
-**I Mostly Code in JavaScript** 
 
-```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-```
+<div align="center">
+
+	
+	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhlc194&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhlc194&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhlc194&theme=nord_bright&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhlc194&theme=vue&hide_border=true)	
+ <br/>
+</div> 
+<div align="center">
+	
+
+
+</div>
+
+## 💻 Tech Stack:
+
+![CPP](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
 
- Last Updated on 02/06/2025 00:39:24 UTC
-<!--END_SECTION:waka-->
+## Connect with Me
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-chaudhary-46605a297/"><img alt="Linkedin" title="Shubham Chaudhary Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/shubhlc194"><img alt="Github" title="Shubham Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/shubham_.__choudhary"><img alt="Instagram" title="Shubham chaudhary" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+</p
